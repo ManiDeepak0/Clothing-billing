@@ -27,9 +27,7 @@ billing/
 ├── shopping_cart.html
 ├── script.js
 ├── style.css
-├── Lunastore-logo.png
 ├── storelogo.jpg
-├── storelogo1.jpg
 ├── README.md
 └── .gitignore
 ```
